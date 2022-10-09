@@ -8,3 +8,5 @@ This place has 10 computers and 5 different types of servers.
 Those people are responsible for repairing computers and providing services to people in the mall, depending on the types of servers they are carrying. 
 They are also responsible for backing up all the data of all the shops in the mall. 
 The scale for the attached images is 1cm:30m.
+
+Use an appropriate IP class and justify the allocation of IP addresses to all kinds of PCs, servers, and other deices statistically or using DHCP. Your design should support 50% growth (wired and wireless) over the next 4 years.
